@@ -422,12 +422,12 @@ export const brand: Brand = {
         position: "center",
       },
       {
-        src: "https://res.cloudinary.com/dcc5ggnkc/video/upload/v1780581425/w22e5ae19sjiofurtmlm.mp4",
+        src: "https://res.cloudinary.com/dzykdnbvb/video/upload/v1783582355/ssstik.io_1783582246730_u3zppo.mp4",
         alt: "Hot Baddies Spa beauty media video",
         position: "center",
       },
       {
-        src: "https://res.cloudinary.com/dcc5ggnkc/video/upload/v1780581429/hptukehgmrufp33qyd5e.mp4",
+        src: "https://res.cloudinary.com/dzykdnbvb/video/upload/v1783582370/ssstik.io_1783582250334_ujudop.mp4",
         alt: "Hot Baddies Spa salon media video",
         position: "center",
       },
